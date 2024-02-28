@@ -15,7 +15,7 @@ Luiz Gabriel Magalhães Trindade
 
 ## Utilização
 ```bash
-python quebrador_de_senhas.py arquivo.zip wordlist.txt
+python crack_zip.py arquivo.zip wordlist.txt
 ```
 
 - `arquivo.zip`: O arquivo zip protegido por senha.
@@ -34,7 +34,7 @@ O programa divide a lista de senhas em quatro partes e executa quatro processos 
 
 ## Exemplo de Uso
 ```bash
-python quebrador_de_senhas.py arquivo_protegido.zip lista_de_senhas.txt
+python crack_zip.py arquivo_protegido.zip lista_de_senhas.txt
 ```
 
 ## Observações
