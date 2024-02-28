@@ -30,15 +30,15 @@ def Task(argf, queue):
         try:
             with AES(zip_file, "r") as ref:
                 ref.extractall(pasta, pwd=pswd)
-                print("-"*10)
+                print("-"*50)
                 print(f"A senha é: {pswd.decode('utf-8')}")
-                print("-"*10)
+                print("-"*50)
                 end = time()
                 tempo = float(end - start)
                 print(f"Tempo total: {tempo}")
                 print("Programa criado por: \"Luiz Gabriel Magalhães Trindade.\"")
                 print("Licenciado sob a licença GPL3.")
-                print("https://www.gnu.org/licenses/gpl-3.0.en.html#license-text")
+                print("https://www.gnu.org/licenses/gpl-3.0.en.html#license-text\n")
                 queue.put("success")
                 return
         except: pass
