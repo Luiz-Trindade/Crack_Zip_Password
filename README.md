@@ -1,6 +1,6 @@
 <image src="https://www.gnu.org/graphics/gplv3-127x51.png">
 
-**Nota:** Este programa foi desenvolvido com fins educacionais e para fins de aprendizado. O uso indevido do mesmo pode violar leis de privacidade e segurança. Utilize-o com responsabilidade.
+**Nota:** ⚠️ Este programa foi desenvolvido com fins educacionais e para fins de aprendizado. O uso indevido do mesmo pode violar leis de privacidade e segurança. Utilize-o com responsabilidade. ⚠️
 
 # Quebrador de Senhas
 
@@ -62,4 +62,4 @@ A escolha da Licença Pública Geral GNU (GPL3) para o quebrador de senhas desen
 
 Em resumo, a escolha da GPL3 reflete o compromisso com os princípios do software livre, a promoção da colaboração aberta e a garantia da liberdade do usuário. Essa licença cria um ambiente propício para o desenvolvimento comunitário e a disseminação do conhecimento.
 
-**Nota:** Este programa foi desenvolvido com fins educacionais e para fins de aprendizado. O uso indevido do mesmo pode violar leis de privacidade e segurança. Utilize-o com responsabilidade.
+**Nota:** ⚠️ Este programa foi desenvolvido com fins educacionais e para fins de aprendizado. O uso indevido do mesmo pode violar leis de privacidade e segurança. Utilize-o com responsabilidade. ⚠️
