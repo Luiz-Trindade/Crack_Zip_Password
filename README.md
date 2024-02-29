@@ -43,6 +43,8 @@ python crack_zip.py arquivo_protegido.zip lista_de_senhas.txt
 
 # Escolha da Licença GPL3
 
+<image src="https://www.gnu.org/graphics/gplv3-127x51.png">
+
 A escolha da Licença Pública Geral GNU (GPL3) para o quebrador de senhas desenvolvido é estratégica e alinhada com as características do programa. A GPL3 é uma licença de software livre que oferece diversas vantagens, especialmente para programas que se baseiam em distribuição e colaboração aberta. Aqui estão alguns motivos para a escolha da GPL3:
 
 ## 1. **Compatibilidade com Software Livre:**
